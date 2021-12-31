@@ -1,0 +1,13 @@
+body {
+  font-family: monospace;
+  overflow: hidden;
+  text-align: center;
+  top: 40%;
+  width: 100%;
+  position: absolute;
+  transform: translateY(-50%);
+}
+
+.time {
+  font-size: 50px;
+}

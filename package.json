@@ -1,0 +1,25 @@
+{
+  "name": "2023-countdown",
+  "version": "1.0.0",
+  "description": "Countdown for 2023",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Bananonz/2023-countdown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bananonz/2023-countdown/issues"
+  },
+  "homepage": "https://github.com/Bananonz/2023-countdown#readme"
+}
